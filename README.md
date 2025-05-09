@@ -28,7 +28,6 @@ This project implements a **smart parking lot** system using a **PIC18F45K22 mic
 
 ## 🗂️ File Structure
 
-```bash
 Smart-Parking-System/
 ├── src/
 │   └── main.c                   # Main embedded C file
