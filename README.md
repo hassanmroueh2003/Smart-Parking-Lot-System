@@ -72,5 +72,4 @@ Smart-Parking-System/
 
 For academic use only.
 
-```
 
