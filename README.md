@@ -30,11 +30,11 @@ This project implements a **smart parking lot** system using a **PIC18F45K22 mic
 
 Smart-Parking-System/
 ├── src/
-│   └── main.c (Main embedded C file)
+│   └── main.c 
 ├── docs/
-│   └── hassan-melissa-report.docx (Project report with explanation, diagrams)
+│   └── hassan-melissa-report.docx 
 ├── simulation/
-│   └── parkingLot.pdsprj (Proteus project file)
+│   └── parkingLot.pdsprj 
 
 ---
 
