@@ -31,8 +31,10 @@ This project implements a **smart parking lot** system using a **PIC18F45K22 mic
 Smart-Parking-System/
 ├── src/
 │   └── main.c 
+
 ├── docs/
 │   └── hassan-melissa-report.docx 
+
 ├── simulation/
 │   └── parkingLot.pdsprj 
 
